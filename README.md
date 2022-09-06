@@ -15,15 +15,15 @@ Foram escolhidos exercicios de acordo com a dificuldade classificada no site, de
 
 ## Screenshots
 
-[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
-
-![image](https://user-images.githubusercontent.com/44625056/188505781-9470237c-0b45-411d-8ad8-3ef932b37fa0.png)
-![image](https://user-images.githubusercontent.com/44625056/188505645-a6a8ae6a-db3b-489a-9b7a-8284e1d11a96.png)
-
 [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 
 ![image](https://user-images.githubusercontent.com/44625056/188505173-ef28ac2f-e03e-486b-9eec-2607b310b6ad.png)
 ![image](https://user-images.githubusercontent.com/44625056/188505120-b6f17b86-7992-4421-93d6-c57c89b1fa6d.png)
+
+[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
+
+![image](https://user-images.githubusercontent.com/44625056/188505781-9470237c-0b45-411d-8ad8-3ef932b37fa0.png)
+![image](https://user-images.githubusercontent.com/44625056/188505645-a6a8ae6a-db3b-489a-9b7a-8284e1d11a96.png)
 
 [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 
@@ -36,17 +36,17 @@ Foram escolhidos exercicios de acordo com a dificuldade classificada no site, de
 ## Uso 
 Para rodar os códigos é necessário acessar os respectivos desafios, colar a solução no campo específico e dar o "Submit".
 
-### Different Ways to Add Parenthese
-
-[Desafio](https://leetcode.com/problems/different-ways-to-add-parentheses/)
-
-[Código](https://github.com/projeto-de-algoritmos/PD_ExerciciosResolvidos/blob/master/diff_ways_add_parentheses.py)
-
 ### Minimum Path Sum
 
 [Desafio](https://leetcode.com/problems/minimum-path-sum/)
 
 [Código](https://github.com/projeto-de-algoritmos/PD_ExerciciosResolvidos/blob/master/min_path_sum.py)
+
+### Different Ways to Add Parenthese
+
+[Desafio](https://leetcode.com/problems/different-ways-to-add-parentheses/)
+
+[Código](https://github.com/projeto-de-algoritmos/PD_ExerciciosResolvidos/blob/master/diff_ways_add_parentheses.py)
 
 ### Longest Valid Parentheses
 
